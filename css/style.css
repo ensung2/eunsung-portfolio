@@ -9062,7 +9062,7 @@ textarea.form-control {
 
 .ftco-section {
   padding: 7em 0;
-  position: relative; }
+  position: relative;}
   @media (max-width: 767.98px) {
     .ftco-section {
       padding: 6em 0; } }
@@ -9079,7 +9079,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #000000;
-  padding: 7em 0;
+  padding: 2em 0;
   z-index: 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
